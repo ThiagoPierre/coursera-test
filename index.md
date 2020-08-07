@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-<h1>cleber</h1>
-<h2>lower cleber</h2>
-<h3> even lower cleber</h3>
+cleber
+lower cleber
+even lower cleber
 
 - Bulleted
 - List
