@@ -1,4 +1,22 @@
 body{
      background-color:black;
-    color: grey;
+     color: whitesmoke;
 }   
+h1{
+    text-align: center;
+    color: royalblue;
+}
+table{
+    color: white;
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+h2{ 
+    text-align: center;
+    color: tomato;
+}
+.mais {
+    color:tomato;
+}
